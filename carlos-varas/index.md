@@ -2,7 +2,7 @@
 
 # BIENVENIDO AL PORTAFOLIO DE: CARLOS EDUARDO VARAS PEREZ
 # Programador de Sistemas
-Habilidades técnicas: SQL, VB .net, C#, Javascript, Jquery
+Habilidades técnicas: SQL, VB .net, C#, Javascript, Jquery, Flutter
 ## Educación
 - Estudios Escolares, Francisco Lizarzaburu 80810
 - Titulado Computación e Informática, Escuela Superior SENCICO 
